@@ -10,14 +10,11 @@ Maintained by **[Sangeeth Harshendra P](https://github.com/psharshendra)** — A
 
 | Folder | Contents |
 |---|---|
-| 📁 [01-Project-Kickoff](./01-Project-Kickoff) | Project charter, stakeholder register, kickoff agenda |
+| 📁 [01-AI-Automation-PM](./01-AI-Automation-PM) | AI tools guide, prompt library, workflow integration |
 | 📁 [02-Agile-Scrum](./02-Agile-Scrum) | Sprint planning, standups, retrospectives, DoD |
 | 📁 [03-Azure-Cloud-Delivery](./03-Azure-Cloud-Delivery) | Azure checklists, migration runbook, governance |
-| 📁 [04-AI-Automation-PM](./04-AI-Automation-PM) | AI tools guide, prompt library, workflow integration |
-| 📁 [05-Stakeholder-Management](./05-Stakeholder-Management) | RACI chart, comms plan, escalation matrix |
-| 📁 [06-Risk-Management](./06-Risk-Management) | Risk register, assessment matrix, issue log |
-| 📁 [07-Reporting-Dashboards](./07-Reporting-Dashboards) | Status reports, executive summaries, health dashboard |
-| 📁 [08-Delivery-Closeout](./08-Delivery-Closeout) | Go-live checklist, lessons learned, closure report |
+| 📁 [04-Stakeholder-Management](./04-Stakeholder-Management) | RACI chart, comms plan, escalation matrix |
+| 📁 [05-Risk-Management](./05-Risk-Management) | Risk register, assessment matrix, issue log |
 
 ---
 
