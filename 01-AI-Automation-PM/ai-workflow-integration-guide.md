@@ -31,10 +31,15 @@ Emails         → Copilot M365 → Summarise threads & draft responses
 ## 🔁 AI-Assisted Sprint Cycle
 
 Sprint Planning  → Claude drafts sprint goals & prioritises backlog
+
 Daily Standups   → Fireflies.ai transcribes & extracts blockers
+
 Mid-Sprint       → Copilot drafts stakeholder updates
+
 Sprint Review    → AI summarises completed work for demo notes
+
 Retrospective    → Claude facilitates retro questions & themes
+
 Reporting        → Auto-generate executive summary from sprint data
 
 ---
