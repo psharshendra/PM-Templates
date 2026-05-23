@@ -17,9 +17,13 @@ How to embed AI tools into your daily PM workflow without disrupting your team.
 ---
 
 ## ☁️ Azure Project AI Integration Stack
+
 Azure DevOps   → Copilot     → Auto-generate work item descriptions
+
 Azure Monitor  → Power BI    → AI anomaly detection on project KPIs
-Teams Meetings → Fireflies   → Action items → Azure DevOps tickets
+
+Teams Meetings → Fireflies/Copilot   → Action items → Azure DevOps tickets
+
 Emails         → Copilot M365 → Summarise threads & draft responses
 
 ---
