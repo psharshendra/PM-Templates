@@ -119,4 +119,4 @@ Suggest: how to open, key talking points,
 likely objections and how to handle them.
 
 ---
-*Maintained by [Sangeeth Harshendra P](https://github.com/psharshendra) | Azure Cloud PM*
+*Maintained by [Sangeeth H P](https://github.com/psharshendra) | Azure Cloud PM*
