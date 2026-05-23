@@ -9,7 +9,7 @@ How to embed AI tools into your daily PM workflow without disrupting your team.
 | Time | Activity | AI Tool | Time Saved |
 |---|---|---|---|
 | Morning | Summarise overnight emails & Teams messages | Copilot for M365 | 30 mins |
-| Standup | Extract blockers & action items from meeting | Fireflies.ai | 20 mins |
+| Standup | Extract blockers & action items from meeting | Fireflies.ai/Copilot | 20 mins |
 | Afternoon | Draft status update & stakeholder comms | Claude / ChatGPT | 45 mins |
 | EOD | Log risks & update issue register | Claude / ChatGPT | 20 mins |
 | **Total** | | | **~2 hrs/day** |
