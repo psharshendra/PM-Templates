@@ -2,7 +2,7 @@
 
 > Real-world Project Management templates for Azure Cloud, Agile, AI automation & enterprise delivery
 
-Maintained by **[Sangeeth Harshendra P](https://github.com/psharshendra)** — Azure Cloud PM | CSM® | MBA
+Maintained by **[Sangeeth H P](https://github.com/psharshendra)** — Azure Cloud PM | CSM® | MBA
 
 ---
 
