@@ -49,4 +49,8 @@ A curated guide to AI tools that supercharge PM productivity across planning, co
 
 - Use AI to **draft first, refine second** — never start from a blank page
 - Always **review AI output** before sharing with stakeholders
-- Build a personal **prompt library** (see `prompt-libr
+- Build a personal **prompt library** (see `prompt-library-for-pms.md`)
+- Use AI for **status reporting** to save 2–3 hours per week
+
+---
+*Maintained by [Sangeeth H P](https://github.com/psharshendra) | Azure Cloud PM*
